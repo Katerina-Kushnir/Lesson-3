@@ -1,0 +1,40 @@
+td {
+    width: 50px;
+    height: 50px;
+}
+
+.one, .four, .six, .seven {
+    background-color: blue;
+}
+
+.two, .three, .five, .eight, .nine {
+    background-color: red;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.one {
+    border-radius: 50% 50% 0 0;
+}
+
+.seven {
+    border-radius: 0 0 50% 50%
+}
+
+.six {
+    border-radius: 50%;
+}
+
+.three, .nine {
+    border-radius: 0 50% 50% 0;
+}
+
+.two {
+    border-top-left-radius: 50%;
+}
+
+.eight {
+    border-bottom-left-radius: 50%;
+}

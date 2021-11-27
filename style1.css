@@ -1,0 +1,26 @@
+div {
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 1em;
+    background-image: url(./фон.jpg);
+}
+
+.color1 {
+    color: #0617b3;
+}
+
+.color2 {
+    color: deeppink;
+}
+
+.color3 {
+    color: rgb(239, 255, 16);
+}
+
+.color4 {
+    color: hsl(340, 70%, 25%);
+}
+
+.color5 {
+    color:rgba(255, 81, 0, 0.7);
+}

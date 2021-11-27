@@ -1,0 +1,13 @@
+body {
+    color: rgba(0, 0, 0, 0.3);
+    opacity: 0.3;
+}
+
+p {
+    color: dodgerblue;
+    color: #D14BE4;
+    color: rgb(89, 228, 75);
+    color: hsl(33, 98%, 51%);
+}
+
+

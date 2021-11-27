@@ -1,0 +1,16 @@
+div {
+    width: 400px;
+    height: 250px;
+    box-shadow: -50px -50px 20px 0px red, 50px 50px 20px 0px blue;
+    margin: 100px 0 0 100px;
+}
+
+.one {
+    background-image: url(./w3c.png);
+    background-size: 60%;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    box-shadow: 50px -50px 20px 0px green inset, -50px 50px 20px 0px black inset;
+}
+
